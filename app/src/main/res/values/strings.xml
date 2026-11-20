@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ForceStop</string>
+    <string name="channel_status">Active blocks</string>
+    <string name="channel_ended">Block ended</string>
+    <string name="tile_label">Block app</string>
+    <string name="widget_description">Shows whether WhatsApp is blocked, with a one-tap block or unblock button</string>
+</resources>
